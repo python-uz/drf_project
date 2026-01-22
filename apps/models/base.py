@@ -35,7 +35,6 @@ class CreatedBaseModel(Model):
     class Meta:
         abstract = True
 
-
 class ImageBaseModel(Model):
     image = ImageField(upload_to=upload_to_image, null=True, blank=True,
                        validators=[FileExtensionValidator(['jpeg', 'jpg', 'png', 'webp']),
