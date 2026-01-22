@@ -1,0 +1,92 @@
+[
+{
+    "model": "apps.category",
+    "pk": 1,
+    "fields": {
+        "slug": "maishiy-texnika",
+        "image": "category/2026/01/17/yfGs0HUuX5wKnXwPbOyEswpZFzzGhmHdpptTriBTKm01HUxMqTBEg1QA2CQr.webp",
+        "name": "Maishiy texnika",
+        "banner": "",
+        "parent": null,
+        "lft": 1,
+        "rght": 12,
+        "tree_id": 2,
+        "level": 0
+    }
+},
+{
+    "model": "apps.category",
+    "pk": 2,
+    "fields": {
+        "slug": "kiyimlarni-parvarish-qilish-uskunalari",
+        "image": "",
+        "name": "Kiyimlarni parvarish qilish uskunalari",
+        "banner": "",
+        "parent": 1,
+        "lft": 2,
+        "rght": 9,
+        "tree_id": 2,
+        "level": 1
+    }
+},
+{
+    "model": "apps.category",
+    "pk": 3,
+    "fields": {
+        "slug": "uy-uchun-dazmollar",
+        "image": "",
+        "name": "Uy uchun dazmollar",
+        "banner": "",
+        "parent": 2,
+        "lft": 7,
+        "rght": 8,
+        "tree_id": 2,
+        "level": 2
+    }
+},
+{
+    "model": "apps.category",
+    "pk": 4,
+    "fields": {
+        "slug": "kiyimlar-uchun-bug-dazmollar",
+        "image": "",
+        "name": "Kiyimlar uchun bug‘ dazmollar",
+        "banner": "",
+        "parent": 2,
+        "lft": 5,
+        "rght": 6,
+        "tree_id": 2,
+        "level": 2
+    }
+},
+{
+    "model": "apps.category",
+    "pk": 5,
+    "fields": {
+        "slug": "kiyim-uchun-bug-generatorlari",
+        "image": "",
+        "name": "Kiyim uchun bug‘ generatorlari",
+        "banner": "",
+        "parent": 2,
+        "lft": 3,
+        "rght": 4,
+        "tree_id": 2,
+        "level": 2
+    }
+},
+{
+    "model": "apps.category",
+    "pk": 6,
+    "fields": {
+        "slug": "maishiy-texnika-aksessuarlari",
+        "image": "",
+        "name": "Maishiy texnika aksessuarlari",
+        "banner": "",
+        "parent": 1,
+        "lft": 10,
+        "rght": 11,
+        "tree_id": 2,
+        "level": 1
+    }
+}
+]
